@@ -1,3 +1,3 @@
-# Shivsaran.S <img align="" src="images/verified.png" height="20px" width="20px">
+# Shivsaran.S <img align="" src="images/check.png" height="20px" width="20px">
 
 
