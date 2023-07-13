@@ -25,4 +25,4 @@
 </p>
 
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivsaran7776&theme=apprentice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="Shivsaran7776" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shivsaran7776&theme=apprentice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
