@@ -6,7 +6,7 @@
 
 <h1 align="center">Hi 👋, I'm Shivsaran</h1>
 
-![](https://komarev.com/ghpvc/?username=Shivs776&color=orange&style=flat-square)
+![](https://komarev.com/ghpvc/?username=Shivsaran776&color=orange&style=flat-square)
 
 ### Have a look
 - 🔭 I’m currently pursuing Post Graduation MCA degree at PSG COLLEGE OF TECHNOLOGY
