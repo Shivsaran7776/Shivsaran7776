@@ -25,4 +25,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivsaran S&theme=dark" alt="Shivsaran7776" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shivsaran7776&theme=dark" alt="Shivsaran7776" /></p>
