@@ -11,11 +11,9 @@
 ### Have a look
 - 🔭 I’m currently pursuing Post Graduation MCA degree at PSG COLLEGE OF TECHNOLOGY
 
-- 🌱 I’m currently learning Machine Learning and Full Stack Development
-
 - 📫 How to reach me **shivisaran7776@gmail.com**
 
-- ⚡ Fun fact: Bunk the class, but don't skip the portions
+- ⚡ Motto: Keep striving for progress, not perfection
 
 - 📄 Do check out my repositories and contribution.
 
